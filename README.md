@@ -1,3 +1,3 @@
 # CensusDataScraping
 
-See CensusData_Scarping.ipynb for detailed explanation.
+See CensusData_To_Precincts.ipynb for detailed explanation.
